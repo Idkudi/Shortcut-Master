@@ -1,5 +1,5 @@
 # Shortcut-Master
-A macro pad with old display
+A macro pad with oled display
 
 
 Schematics
