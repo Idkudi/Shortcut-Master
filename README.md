@@ -3,7 +3,7 @@ A macro pad with old display
 
 
 Schematics
-![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/schematics.png)
+![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/scematics.png)
 
 Pcb
 ![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/pcb.png)
