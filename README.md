@@ -2,8 +2,8 @@
 A macro pad with old display
 
 
-Scematics
-![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/scematics.png)
+Schematics
+![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/schematics.png)
 
 Pcb
 ![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/pcb.png)
