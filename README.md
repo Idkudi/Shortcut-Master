@@ -8,9 +8,8 @@ Schematics
 Pcb
 ![Test Image 3](assets/pcb.png)
 
-pcb 3d
-![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/3d.png)
-
+pcb in case
+![Test Image 3](assets/pcb in case.png)
 
 Case
 ![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/case.png)
