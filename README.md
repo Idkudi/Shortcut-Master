@@ -9,9 +9,7 @@ Pcb
 ![Test Image 3](assets/pcb.png)
 
 pcb in case
-![Test Image 3](assets/pcb in case.png)
+![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/pcb%20in%20case.png?raw=true)
 
-
-assets/pcb in case.png
 Case
 ![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/case.png)
