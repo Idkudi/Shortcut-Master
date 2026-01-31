@@ -9,7 +9,7 @@ Pcb
 ![Test Image 3](assets/pcb.png)
 
 Pcb in 3d view
-![Test Image 3](assets/pcb%203d.png)
+![Test Image 3](assets/pcb 3d.png)
 
 pcb in case
 ![Test Image 3](https://github.com/Idkudi/Shortcut-Master/blob/main/assets/pcb%20with%20case.png?raw=true)
